@@ -4,6 +4,6 @@ This repository contains code for implementing a Support Vector Machine (SVM) mo
 This model will acurately classify if a file given is of a dog or a cat
 
 
-run **Classifier.ipynb** in jupyter notebook and change the location of the jpg file to classify.
+run **Task 3.ipynb** in jupyter notebook and change the location of the jpg file to classify.
 **Dataset link:** https://www.kaggle.com/c/dogs-vs-cats/data
 
